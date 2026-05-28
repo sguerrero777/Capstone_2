@@ -12,7 +12,7 @@ trends and deliver data-driven recommendations for Q1 2026.
 - **Territory Managers:** Jeff "Howdy" Richards (TX) | Miami Vue (NJ)
 - **Assigned Territories:** Texas (South Region) & New Jersey (Northeast Region)
 - **Region Directors:** Cassie Chambers (South) | Michael Jarvis (Northeast)
-- **Scope of Analysis:** In-Store Sales, January 1, 2022 – December 31, 2025
+- **Scope of Analysis:** In-Store Sales for January 1, 2022 – December 31, 2025 (4 fiscal years)
 
 ## Executive Summary
 - **Top Territory:** New Jersey leads in overall revenue driven by 5 additional store locations
