@@ -42,7 +42,7 @@ trends and deliver data-driven recommendations for Q1 2026.
 - **PowerPoint** — presentation and recording
 
 ## Video Demo
-
+https://yearuptemp-my.sharepoint.com/:v:/g/personal/sguerrero_my_yearupunited_org/IQCd4oSME4CKTKjIcOEcl3nJAaVWHAZQ0QuEd7Pu6scn2aY?e=ZWzvWU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI0Yzg0NDJiYi1iOGZjLTRlMTMtYThmZi02OWM3NDJhZmUzOWQifX0%3D
 
 ## Author
 Sharleen Guerrero | Year Up United Data Analytics Academy
