@@ -22,7 +22,7 @@ trends and deliver data-driven recommendations for Q1 2026.
 - **Revenue Trend:** Both territories trending upward across the 48-month period
 
 ## Table of Contents
-- `Guerrero_Sales_Analysis.ipynb` — Full analysis notebook with charts and dashboard
+- `Guerrero_Sales_Analysis.ipynb` — Full core marketing analysis with markdown findings and python visualizations
 - `dataset_imports/` — Folder containing all CSV source data files:
   - `StoreSales.csv` — 335,000+ transaction records including date, store, product, sale amount, and rewards ID
   - `StoreDetail.csv` — Store location details including city, state, store ID, territory manager, and region
